@@ -1,0 +1,35 @@
+a D K
+number of items: 2
+total weight 28/28
+wasted capacity: 0
+
+b B M
+number of items: 2
+total weight 28/28
+wasted capacity: 0
+
+d G H
+number of items: 2
+total weight 28/28
+wasted capacity: 0
+
+e E J
+number of items: 2
+total weight 28/28
+wasted capacity: 0
+
+c C L
+number of items: 2
+total weight 28/28
+wasted capacity: 0
+
+f F I
+number of items: 2
+total weight 28/28
+wasted capacity: 0
+
+g A N
+number of items: 2
+total weight 28/28
+wasted capacity: 0
+

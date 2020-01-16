@@ -1,0 +1,35 @@
+c B M
+number of items: 2
+total weight 15/15
+wasted capacity: 0
+
+b K D
+number of items: 2
+total weight 15/15
+wasted capacity: 0
+
+d G H
+number of items: 2
+total weight 15/15
+wasted capacity: 0
+
+f F I
+number of items: 2
+total weight 15/15
+wasted capacity: 0
+
+e E J
+number of items: 2
+total weight 15/15
+wasted capacity: 0
+
+a C L
+number of items: 2
+total weight 15/15
+wasted capacity: 0
+
+g A N
+number of items: 2
+total weight 15/15
+wasted capacity: 0
+

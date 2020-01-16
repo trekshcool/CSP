@@ -1,0 +1,35 @@
+##### - variables
+A 1
+B 3
+C 5
+D 7
+E 9
+F 11
+G 13
+H 15
+I 17
+J 19
+K 21
+L 23
+M 25
+N 27
+##### - values
+a 28
+b 28
+c 28
+d 28
+e 28
+f 28
+g 28
+##### - fitting limits
+##### - unary inclusive
+A g
+M f
+##### - unary exclusive
+B e
+C d
+##### - binary equals
+G H
+D K
+##### - binary not equals
+##### - binary simultaneous
